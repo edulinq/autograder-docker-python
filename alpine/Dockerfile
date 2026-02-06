@@ -1,4 +1,4 @@
-FROM ghcr.io/edulinq/grader.base:0.1.0-alpine3.20.3
+FROM ghcr.io/edulinq/grader.base:0.1.1-alpine3.20.3
 
 RUN apk update
 RUN apk add --no-cache \

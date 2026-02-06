@@ -1,4 +1,4 @@
-FROM ghcr.io/edulinq/grader.base:0.1.0-ubuntu22.04
+FROM ghcr.io/edulinq/grader.base:0.1.1-ubuntu22.04
 
 ENV DEBIAN_FRONTEND=noninteractive
 RUN apt-get update
